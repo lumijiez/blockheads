@@ -1,0 +1,54 @@
+# Unity large temp folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Keep small files like .csproj, .userprefs, etc.
+# Exclude unnecessary large file types or folders
+
+# Unity auto-generated folders
+/Assets/Plugins/Editor/JetBrains*
+
+# Logs and local files
+*.swp
+*.lock
+*.log
+*.locks
+*.cache
+*.prefs
+.DS_Store
+*.aps
+*.pidb.meta
+*.apk
+*.aab
+*.app
+
+# Build results
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad/
+*.pbxproj
+*.xcuserdata/
+*.hmap
+*.ipa
+*.dsym
+*.androidproj
+
+# Unity Asset Store tools
+/Assets/AssetStoreTools*
+
+# Crashlytics generated files
+fabric.properties
+
+# Collaborate files
+/[Uu]ser[Ss]ettings/[Cc]ollab*
+
+# Node.js modules (for projects with Node.js)
+node_modules/
+
+# Visual Studio Code settings (optional)
+.vscode/

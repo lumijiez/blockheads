@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Source\\The Blockheads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36CD0DF0-551E-AC6B-822A-7519FFA2A1A6}|Assembly-CSharp.csproj|e:\\source\\the blockheads\\assets\\scripts\\world\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CD0DF0-551E-AC6B-822A-7519FFA2A1A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CD0DF0-551E-AC6B-822A-7519FFA2A1A6}|Assembly-CSharp.csproj|E:\\Source\\The Blockheads\\assets\\scripts\\world\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CD0DF0-551E-AC6B-822A-7519FFA2A1A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "World.cs",
+              "DocumentMoniker": "E:\\Source\\The Blockheads\\Assets\\Scripts\\World\\World.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\World.cs",
+              "ToolTip": "E:\\Source\\The Blockheads\\Assets\\Scripts\\World\\World.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\World.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwFIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:57:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "E:\\Source\\The Blockheads\\Assets\\Scripts\\World\\Chunk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Chunk.cs",
+              "ToolTip": "E:\\Source\\The Blockheads\\Assets\\Scripts\\World\\Chunk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\Chunk.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:11:49.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
